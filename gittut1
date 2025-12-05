@@ -1,0 +1,13 @@
+commands for vs code terminal
+clone ____________ (name of github address) will open the git hub file in vs code
+cd command se file me ghuso 
+ls se list of files
+ls -a se all files including hidden files
+git status - will give you the status oof the code
+git status will only work when you have already entered the file inside the git rep by using cd command what you have to 
+do is first open a file in your system the in that file open vs code then clone the repo's link then using cd command 
+enter the repo and after that use status command
+to add new file or changes in github write add and then file name
+writing git add . will add all changes and files at once
+to get to commit the changes we will write git commit -m "comment"
+git push origin main - upload the changes to git hub
